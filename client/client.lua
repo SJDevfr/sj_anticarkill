@@ -18,7 +18,3 @@ Citizen.CreateThread(function()
         Wait(25)
     end
 end)
-
-git config --global user.name "SjDev"
-
-git config --global user.email "[email protected]"
